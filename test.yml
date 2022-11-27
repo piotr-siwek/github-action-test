@@ -1,0 +1,9 @@
+name: Ali
+age: 28
+test: "siema:elo"
+testinio:
+  siema: elo
+array:
+  - siema
+  - elo:
+      - elo
